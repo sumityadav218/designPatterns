@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author sumit
- *
- */
-module designPatterns {
-}
