@@ -1,7 +1,8 @@
 package singletonRealExample;
 
 public class DatabaseConnection {
-    private static DatabaseConnection instance;
+   
+	private static DatabaseConnection instance;
     
     private DatabaseConnection() {
         // Private constructor to prevent instantiation from outside the class

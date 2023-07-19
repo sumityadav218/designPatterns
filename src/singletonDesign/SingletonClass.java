@@ -6,11 +6,11 @@ public class SingletonClass {
 	//instance directly instead we are using getter to access its instance )
 	private static SingletonClass singleInstance =  new SingletonClass() ; 
 
-
+//step-2
 	//private constructor
 	private SingletonClass() {}
 
-
+//step3 
 	//only getter method
 	public static SingletonClass getSingleInstance() {
 		return singleInstance;
